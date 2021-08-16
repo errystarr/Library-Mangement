@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Mon Jan 22 03:12:56 IST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-0161-1aab-de76-0000009a0648 
+on database directory C:\LibraryApp\Javadb\librarydb with class loader sun.misc.Launcher$AppClassLoader@1193f2d 
+Loaded from file:/C:/Java/jdk1.8/db/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=C:\LibraryApp\Javadb
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Jan 22 03:14:00 IST 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Mon Jan 22 03:14:00 IST 2018:
+Shutting down instance a816c00e-0161-1aab-de76-0000009a0648 on database directory C:\LibraryApp\Javadb\librarydb with class loader sun.misc.Launcher$AppClassLoader@1193f2d 
+----------------------------------------------------------------
